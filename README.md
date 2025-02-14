@@ -21,8 +21,3 @@ I’m a tech enthusiast who does some tech-related stuff as a hobbyist. Well, I'
 
 #### **🔮 Life's Motto**
 Did you know? The universe is made of stories, not atoms—so let’s create some epic ones together!
-
----
-
-#### **I use Arch, by the way! 😎**  
-Yeah, I know you hate this phrase, but I don’t really care...
