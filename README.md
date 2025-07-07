@@ -5,8 +5,8 @@
 
 #### **🔧 About Me**
 I’m a tech enthusiast who does some tech-related stuff as a hobbyist. Well, I'm pretty good at:
-- **MERN Stack Sorcery**: Yeah, the most hyped tech stack.
-- **Flutter & Dart Alchemy**: To minimize the cross-platform pain, just to make things further complicated.
+- **MERN Stack**: Yeah, the most hyped tech stack.
+- **Flutter**: To minimize the cross-platform pain, just to make things further complicated.
 
 ---
 
