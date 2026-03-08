@@ -1,23 +1,16 @@
 ### **Ah, you’ve found me. I’m Shaaanuu btw! 👀✨**  
-*Just an ordinary peace-craving soul, just like you... but I’m pretty sure I’m more extraordinary than you think!*
-
----
+*Just an ordinary peace craving soul, just like you... but I’m pretty sure I’m more extraordinary than you think!*
 
 #### **🔧 About Me**
-I’m a tech enthusiast who does some tech-related stuff as a hobbyist. Well, I'm pretty good at:
-- **MERN Stack**: Yeah, the most hyped tech stack.
-- **Flutter**: To minimize the cross-platform pain, just to make things further complicated.
+I’m a hobbyist who likes messing around with tech and figuring out how things work. I mostly like:
+- **Web Dev**: Yeah, internet's defualt playground.
+- **Flutter**: Better for cross-platform.
+- **Linux ricing**: Making my own little home inside computer.
 
----
-
-#### **🛠️ Tools in My Developer Toolkit**
+#### **🛠️ Tools I use**
 *Do you know what they say?*
 
 *"If you know how much money you have, then you don't have enough."*
 
-*And if you know how many frameworks you’re juggling, you’re probably in way over your head!*
-
----
-
 #### **🔮 Life's Motto**
-Did you know? The universe is made of stories, not atoms—so let’s create some epic ones together!
+Did you know? The universe is made of stories, not atoms. So let’s create some epic ones together!
