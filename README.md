@@ -2,27 +2,25 @@
 
 # shaaanuu
 
-**It's okay, I'm spider-man.**
+**Rumors are right, I'm spider-man.**
 
 _Part of [theBrainstormLab](https://github.com/theBrainstormLab)._
 
 </div>
 
-<img align="left" src="./assets/brain.png" width="150" />
+<img align="left" src="./assets/brain.png" width="160" />
 
 <br>
-<br>
 
-I’m a hobbyist who likes messing around with things and figuring out how things work.
+I’m a hobbyist who likes messing around with things and figuring out how they work. Curiosity has probably wasted more of my time than anything else, but it has also taught me almost everything I know. If something interests me, I find it difficult to leave it unexplored.
 
 <br clear="left">
 
-<img align="right" src="./assets/heart.png" width="150" />
+<img align="right" src="./assets/heart.png" width="160" />
 
 <br>
-<br>
 
-My interests lie somewhere between software engineering, design, philosophy, and an unhealthy amount of curiosity.
+My interests lie somewhere between software engineering, design, philosophy, and an unhealthy amount of curiosity. I like clean software, thoughtful design, and ideas that stay with you long after you've closed the book or the editor. Most of what I build is simply an excuse to keep exploring.
 
 <br clear="right">
 
