@@ -1,16 +1,43 @@
-### **Ah, you’ve found me. I’m Shaaanuu btw! 👀✨**  
-*Just an ordinary peace craving soul, just like you... but I’m pretty sure I’m more extraordinary than you think!*
+<div align="center">
 
-#### **🔧 About Me**
-I’m a hobbyist who likes messing around with tech and figuring out how things work. I mostly like:
-- **Web Dev**: Yeah, internet's defualt playground.
-- **Flutter**: Better for cross-platform.
-- **Linux ricing**: Making my own little home inside computer.
+# shaaanuu
 
-#### **🛠️ Tools I use**
-*Do you know what they say?*
+**It's okay, I'm spider-man.**
 
-*"If you know how much money you have, then you don't have enough."*
+_Part of [theBrainstormLab](https://github.com/theBrainstormLab)._
 
-#### **🔮 Life's Motto**
-Did you know? The universe is made of stories, not atoms. So let’s create some epic ones together!
+</div>
+
+<img align="left" src="./assets/brain.png" width="150" />
+
+<br>
+<br>
+
+I’m a hobbyist who likes messing around with things and figuring out how things work.
+
+<br clear="left">
+
+<img align="right" src="./assets/heart.png" width="150" />
+
+<br>
+<br>
+
+My interests lie somewhere between software engineering, design, philosophy, and an unhealthy amount of curiosity.
+
+<br clear="right">
+
+<div align="center">
+I love anything that keeps my dopamine levels up.
+</div>
+
+<div align="center">
+
+## ping me
+
+</div>
+
+- Portfolio → [shaaanuu.netlify.app](https://shaaanuu.netlify.app)
+- Gmail → shanndwitch@gmail.com
+- LinkedIn → [shaaanuu](https://www.linkedin.com/in/shaaanuu/)
+- Instagram → [\_shaaanuuu.\_](https://www.instagram.com/_shaaanuuu._/)
+- X → [shaaanuu0](https://x.com/shaaanuu0)
